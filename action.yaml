@@ -1,0 +1,6 @@
+# action.yml
+name: 'Rector'
+description: 'This is a php rector action work on you php code.'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
